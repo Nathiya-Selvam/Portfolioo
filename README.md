@@ -2,8 +2,8 @@
     <head>
         <title>Muthayammal Engineering College - Student Portfolio</title>
     </head>
-    <body>
-        <h1><center>Muthayammal Engineering College</center></h1>
+    <body><marquee>
+        <h1><center>Muthayammal Engineering College</center></h1></marquee>
         <h3>Department of Information Technology</h3>
         <hr>
         <h2><center>Student Portfolio</center></h2>
