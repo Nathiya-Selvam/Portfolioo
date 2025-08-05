@@ -4,6 +4,8 @@
     </head>
     <body><marquee>
         <h1><center>Muthayammal Engineering College</center></h1></marquee>
+                <center><img src="image.jpeg"/></center>
+        <h3><center>Department of Information Technology</center></h3>
         <h3>Department of Information Technology</h3>
         <hr>
         <h2><center>Student Portfolio</center></h2>
